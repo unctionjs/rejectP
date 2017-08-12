@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import reduceWithValueKey from "./source"
+import rejectP from "./source"
 
 test(({equal}) => {
   return rejectP("a")
