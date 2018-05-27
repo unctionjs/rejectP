@@ -1,3 +1,3 @@
-export default function rejectP (value: any): Promise<any> {
-  return Promise.reject(value)
+export default function rejectP(value) {
+  return Promise.reject(value);
 }
