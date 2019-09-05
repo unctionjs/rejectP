@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> any => Promise<any>
+> A => Promise<A>
 
 A port of the `Promise.reject()` function.
 
