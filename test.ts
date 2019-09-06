@@ -1,5 +1,5 @@
 
-import rejectP from "./index.ts";
+import rejectP from "./index";
 
 test(() => {
   return rejectP("a")
